@@ -29,3 +29,8 @@ Steps:
    
    ![Screenshot from 2023-02-16 15-26-32](https://user-images.githubusercontent.com/122020679/219332097-919b5405-4980-491f-8ee3-32067bd94992.png)
 
+6. Check helm version
+
+   Command: helm version
+   
+   ![Screenshot from 2023-02-16 15-29-39](https://user-images.githubusercontent.com/122020679/219332946-3bcc0da5-b50a-4d9c-994b-98517b4f91dd.png)
